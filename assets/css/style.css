@@ -56,7 +56,7 @@
   margin-top: 1em;
   padding: 1em;
   grid-gap: 0.5em;
-  background-color: rgb(243, 247, 243);
+  background-color: rgba(243, 247, 243, 0.704);
 }
 .grid-container .main div img {
   height: 12em;
